@@ -1,4 +1,4 @@
-# SecretScanner Mini
+# SecretScanner 
 
 Scan a text file for leaked secrets. Backend only, Node.js CLI.
 
